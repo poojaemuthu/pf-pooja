@@ -39,7 +39,7 @@ main {
   transform: translate(-50%, -25%);
 }
 .hero .profile-image {
-  background: url(../images/pooja-photo.jpg) no-repeat;
+  background: url(./images/pooja-photo.jpg) no-repeat;
   height: 100vh;
   width: 50%;
   background-size: 100%;
@@ -222,95 +222,95 @@ main {
   background: #000;
 }
 .works .home a {
-  background-image: url(../images/home-screen.png);
+  background-image: url(./images/home-screen.png);
 }
 .works .home .img {
-  background-image: url(../images/home-screen.png);
+  background-image: url(./images/home-screen.png);
 }
 .works .search a {
-  background-image: url(../images/search.png);
+  background-image: url(./images/search.png);
 }
 .works .search .img {
-  background-image: url(../images/search.png);
+  background-image: url(./images/search.png);
 }
 .works .hub a {
-  background-image: url(../images/hub.png);
+  background-image: url(./images/hub.png);
 }
 .works .hub .img {
-  background-image: url(../images/hub.png);
+  background-image: url(./images/hub.png);
 }
 .works .schedule a {
-  background-image: url(../images/schedule.png);
+  background-image: url(./images/schedule.png);
 }
 .works .schedule .img {
-  background-image: url(../images/schedule.png);
+  background-image: url(./images/schedule.png);
 }
 .works .profile a {
-  background-image: url(../images/profile.png);
+  background-image: url(./images/profile.png);
 }
 .works .profile .img {
-  background-image: url(../images/profile.png);
+  background-image: url(./images/profile.png);
 }
 .works .profile-menu a {
-  background-image: url(../images/profile-menu.png);
+  background-image: url(./images/profile-menu.png);
 }
 .works .profile-menu .img {
-  background-image: url(../images/profile-menu.png);
+  background-image: url(./images/profile-menu.png);
 }
 .works .learning-corner a {
-  background-image: url(../images/learning-corner.png);
+  background-image: url(./images/learning-corner.png);
 }
 .works .learning-corner .img {
-  background-image: url(../images/learning-corner.png);
+  background-image: url(./images/learning-corner.png);
 }
 .works .reports-1 a {
-  background-image: url(../images/reports-1.png);
+  background-image: url(./images/reports-1.png);
 }
 .works .reports-1 .img {
-  background-image: url(../images/reports-1.png);
+  background-image: url(./images/reports-1.png);
 }
 .works .reports-2 a {
-  background-image: url(../images/reports-2.png);
+  background-image: url(./images/reports-2.png);
 }
 .works .reports-2 .img {
-  background-image: url(../images/reports-2.png);
+  background-image: url(./images/reports-2.png);
 }
 .works .progress-reports a {
-  background-image: url(../images/progess-reports.png);
+  background-image: url(./images/progess-reports.png);
 }
 .works .progress-reports .img {
-  background-image: url(../images/progess-reports.png);
+  background-image: url(./images/progess-reports.png);
 }
 .works .progress-reports-enabled a {
-  background-image: url(../images/progess-reports-enabled.png);
+  background-image: url(./images/progess-reports-enabled.png);
 }
 .works .progress-reports-enabled .img {
-  background-image: url(../images/progess-reports-enabled.png);
+  background-image: url(./images/progess-reports-enabled.png);
 }
 .works .evaluation a {
-  background-image: url(../images/evaluation-form.png);
+  background-image: url(./images/evaluation-form.png);
 }
 .works .evaluation .img {
-  background-image: url(../images/evaluation-form.png);
+  background-image: url(./images/evaluation-form.png);
 }
 .works .evaluation-success a {
-  background-image: url(../images/evaluation-successful.png);
+  background-image: url(./images/evaluation-successful.png);
 }
 .works .evaluation-success .img {
-  background-image: url(../images/evaluation-successful.png);
+  background-image: url(./images/evaluation-successful.png);
 }
 .works .yoco-reports a {
-  background-image: url(../images/yoco-reports.png);
+  background-image: url(./images/yoco-reports.png);
 }
 .works .yoco-reports .img {
-  background-image: url(../images/yoco-reports.png);
+  background-image: url(./images/yoco-reports.png);
   background-size: 90%;
 }
 .works .add-company a {
-  background-image: url(../images/add-company1.jpg);
+  background-image: url(./images/add-company1.jpg);
 }
 .works .add-company .img {
-  background-image: url(../images/add-company1.jpg);
+  background-image: url(./images/add-company1.jpg);
   background-size: 90%;
 }
 

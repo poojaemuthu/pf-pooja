@@ -13,9 +13,9 @@
     <body>
         <header>
             <nav>
-                <a href="#" onclick="toggle_visibility('home');">Home</a>
-                <a href="#" onclick="toggle_visibility('about');">About me</a>
-                <a href="#" onclick="toggle_visibility('work');">Works</a>
+                <a id="tab1" href="#"  onClick="JavaScript:selectTab(1);">Home</a>
+                <a id="tab2" href="#"  onClick="JavaScript:selectTab(2);">About me</a>
+                <a id="tab3" href="#"  onClick="JavaScript:selectTab(3);">Works</a>
             </nav>
         </header>
         <main id="home">
@@ -173,10 +173,12 @@
                     </section>
                 </main>
                 <script type="text/javascript">
-                    function toggle_visibility(id) {
-                         var e = document.getElementById(id);
-                         e.style.display = ((e.style.display!='none') ? 'none' : 'block');
-                     }
+                    document.getElementById('tab1Content').style.display="none";
+                    document.getElementById('tab2Content').style.display="none";
+                    document.getElementById('tab3Content').style.display="none";
+                    
+                    //Show the Selected Tab
+                    document.getElementById('tab' + tabIndex + 'Content').style.display="block";  
                 </script>
     </body>
 </html>
